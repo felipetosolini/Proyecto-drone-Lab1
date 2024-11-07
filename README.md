@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Proyecto Final - Dron Arduino</title>
 </head>
 <body>
   <h1>Proyecto Final - Dron Arduino</h1>
@@ -12,7 +11,7 @@
   <p><strong>Fecha:</strong> 07/11/2024</p>
 
   <h2>Descripción del Proyecto</h2>
-  <p>En este repositorio, detallamos paso a paso la creación de un dron controlado mediante un Arduino Pro Mini y un módulo Bluetooth, desarrollado como proyecto final de la materia <strong>Laboratorio 1</strong> en la carrera de Ingeniería Informática en la <strong>Universidad Blas Pascal</strong>. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante el primer semestre, abordando tanto la programación en Arduino como el diseño de la estructura física del dron.</p>
+  <p>En este repositorio, detallamos paso a paso la creación de un dron controlado mediante un Arduino Pro Mini y un módulo Bluetooth, desarrollado como proyecto final de la materia <strong>Laboratorio 1</strong> en la carrera de Ingeniería Informática en la <strong>Universidad Blas Pascal</strong>. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante los primeros semestres, abordando tanto la programación en Arduino como el diseño de la estructura física del dron.</p>
 
   <h2>Contenidos del Repositorio</h2>
   <p>Este repositorio incluye:</p>

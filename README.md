@@ -30,8 +30,13 @@
     <li>Módulo Bluetooth HC-05/HC-06</li>
     <li>Sensor MPU6050 para el control de equilibrio y movimiento</li>
     <li>Motores y Hélices de tamaño pequeño para vuelo</li>
-    <li>Batería de Litio (3.7V) para la alimentación del dron</li>
+    <li>Batería de Litio LG 600mah para la alimentación del dron</li>
     <li>Chasis impreso en 3D</li>
+    <li>Cables de Conexión y Soldadora</li>
+    <li>⁠Mini USB a Serial TTL - FT232RL para cargar codigo a la placa arduino</li>
+    <li>TP4056 - Cargador de Batería</li>
+    <li>PCB Placa Experimental Perforada</li>
+    <li>Resistencias - Transistores - Diodos (Motor Driver Casera)</li>
   </ul>
 </body>
 </html>
